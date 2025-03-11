@@ -1,0 +1,44 @@
+# Node modules
+/node_modules/
+
+# Build outputs
+/build/
+/dist/
+
+# Logs
+*.log
+*.log.*
+
+# Dependency directories
+/.pnp/
+/.pnp.js
+
+# React Native
+# Uncomment the next line if you're working on React Native
+# .expo/
+
+# Environment files
+.env
+.env.*.local
+
+# IDE files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Yarn / npm lock files (if you prefer to ignore them)
+# Uncomment one of the lines below to ignore either yarn.lock or package-lock.json
+# yarn.lock
+# package-lock.json
+
+# Coverage directory for testing tools (if you're using Jest or other tools)
+coverage/
+
+# TypeScript cache (if using TypeScript)
+*.tsbuildinfo
+
+# Testing files
+test/
